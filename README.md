@@ -2,8 +2,7 @@
 
 Aspiring Data Analyst focused on transforming data into insights, dashboards, and better business decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Add-your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](Add-your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkdlin.com/thallyacristhina)
 
 ---
 
@@ -57,8 +56,7 @@ Used Python and pandas for data cleaning, transformation, and exploratory analys
 
 ## Connect With Me
 
-* LinkedIn: Add your link
-* GitHub: Add your link
+* LinkedIn: linkdlin.com/thallyactisthina
 
 ---
 
