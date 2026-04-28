@@ -47,16 +47,11 @@ Used Python and pandas for data cleaning, transformation, and exploratory analys
 
 ## 2026 Goals
 
-* Build a strong analytics portfolio
 * Gain real-world experience
-* Start a career as a Data Analyst
 * Continue learning and improving every day
 
 ---
 
-## Connect With Me
-
-* LinkedIn: linkdlin.com/thallyactisthina
 
 ---
 
