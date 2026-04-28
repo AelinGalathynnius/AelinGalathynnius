@@ -31,9 +31,9 @@ Designed interactive dashboards with charts, filters, and executive KPIs.
 
 Created visual reports focused on trends, insights, and storytelling with data.
 
-### Python Data Analysis
+### Exploratory Data Analysis Project
 
-Used Python and pandas for data cleaning, transformation, and exploratory analysis.
+Used SQL to clean, explore, and analyze data to identify trends, patterns, and business insights.
 
 ---
 
