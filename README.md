@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst focused on transforming data into insights, dashboards, and better business decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkdlin.com/thallyacristhina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkdlin.com/in/thallyacristhina)
 
 ---
 
