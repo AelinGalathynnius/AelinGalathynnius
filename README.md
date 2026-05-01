@@ -47,7 +47,7 @@ Used SQL to clean, explore, and analyze data to identify trends, patterns, and b
 
 ## 2026 Goals
 
-* Gain real-world experience
+* Gain experience
 * Continue learning and improving every day
 
 ---
