@@ -46,12 +46,7 @@ Used SQL to clean, explore, and analyze data to identify trends, patterns, and b
 ![Data Lake](https://img.shields.io/badge/Learning-Data_Lake-9cf)
 
 
-
 ---
 
----
-
-
----
 
 *"Without data, you're just another person with an opinion."*
