@@ -1,6 +1,6 @@
 # Hi, I'm Thallya 
 
-Aspiring Data Analyst focused on transforming data into insights, dashboards, and better business decisions.
+ Data Analyst focused on transforming data into insights, dashboards, and better business decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/thallyacristhina/)
 
