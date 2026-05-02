@@ -49,8 +49,6 @@ Used SQL to clean, explore, and analyze data to identify trends, patterns, and b
 
 ---
 
-## 2026 Goals
-
 ---
 
 
