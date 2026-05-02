@@ -43,6 +43,21 @@ Used SQL to clean, explore, and analyze data to identify trends, patterns, and b
 ![Power BI](https://img.shields.io/badge/Learning-Power_BI_Storytelling-yellow)
 ![Python](https://img.shields.io/badge/Learning-Python_for_Analytics-green)
 
+# 📚 Currently Learning
+
+![Advanced SQL](https://img.shields.io/badge/Learning-Advanced_SQL-blue)
+![Power BI](https://img.shields.io/badge/Learning-Power_BI_Storytelling-yellow)
+![Python](https://img.shields.io/badge/Learning-Python-green)
+![Databricks](https://img.shields.io/badge/Learning-Databricks-orange)
+![Data Lake](https://img.shields.io/badge/Learning-Data_Lake-9cf)
+
+## 🐍 Python Libraries
+
+![NumPy](https://img.shields.io/badge/Library-NumPy-blue)
+![Pandas](https://img.shields.io/badge/Library-Pandas-purple)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-lightblue)
+
 ---
 
 ## 2026 Goals
